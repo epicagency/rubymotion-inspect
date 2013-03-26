@@ -1,0 +1,14 @@
+
+PODS:
+- AFNetworking (1.1.0)
+- NVSlideMenuController (1.3.1)
+
+DEPENDENCIES:
+- AFNetworking
+- NVSlideMenuController
+
+SPEC CHECKSUMS:
+  AFNetworking: 761a418233d280c1e0580bcb76ff9cb4c3073d17
+  NVSlideMenuController: 01fd87f94f95ff1c5d957e352daf3cfb91d1a61c
+
+COCOAPODS: 0.16.4

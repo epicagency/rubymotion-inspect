@@ -1,0 +1,66 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activesupport (3.2.12)
+      i18n (~> 0.6)
+      multi_json (~> 1.0)
+    addressable (2.3.3)
+    afmotion (0.4)
+      motion-cocoapods (>= 1.2.1)
+    cocoapods (0.16.4)
+      activesupport (~> 3.2.6)
+      colored (~> 1.2)
+      escape (~> 0.0.4)
+      faraday (~> 0.8.1)
+      json (~> 1.7.3)
+      octokit (~> 1.7)
+      open4 (~> 1.3.0)
+      rake (~> 10.0.0)
+      xcodeproj (~> 0.5.0)
+    colored (1.2)
+    escape (0.0.4)
+    faraday (0.8.6)
+      multipart-post (~> 1.1)
+    faraday_middleware (0.9.0)
+      faraday (>= 0.7.4, < 0.9)
+    hashie (1.2.0)
+    i18n (0.6.4)
+    json (1.7.7)
+    motion-cocoapods (1.2.1)
+      cocoapods (>= 0.14.0)
+    motion-dtrace (0.1.1)
+      rake
+    motion-testflight (1.4)
+    multi_json (1.6.1)
+    multipart-post (1.2.0)
+    netrc (0.7.7)
+    octokit (1.23.0)
+      addressable (~> 2.2)
+      faraday (~> 0.8)
+      faraday_middleware (~> 0.9)
+      hashie (~> 1.2)
+      multi_json (~> 1.3)
+      netrc (~> 0.7.7)
+    open4 (1.3.0)
+    rake (10.0.3)
+    rake-hooks (1.2.3)
+      rake
+    sugarcube (0.18.17)
+    teacup (1.2.7)
+      rake
+    xcodeproj (0.5.0)
+      activesupport (~> 3.2.6)
+      colored (~> 1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  afmotion
+  motion-cocoapods (~> 1.2)
+  motion-dtrace
+  motion-testflight
+  rake
+  rake-hooks
+  sugarcube
+  teacup

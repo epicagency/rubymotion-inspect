@@ -1,0 +1,153 @@
+<?xml version='1.0'?>
+<signatures version='1.0'>
+<enum name='MTLabelTextAlignmentCenter' value='1'/>
+<enum name='MTLabelTextAlignmentJustify' value='3'/>
+<enum name='MTLabelTextAlignmentLeft' value='0'/>
+<enum name='MTLabelTextAlignmentRight' value='2'/>
+<class name='MTLabel'>
+<method selector='_textHeight'>
+<retval declared_type='CGFloat' type='f'/>
+</method>
+<method selector='adjustSizeToFit'>
+<retval declared_type='BOOL' type='B'/>
+</method>
+<method selector='delegate'>
+<retval declared_type='id' type='@'/>
+</method>
+<method selector='font'>
+<retval declared_type='UIFont*' type='@'/>
+</method>
+<method selector='fontColor'>
+<retval declared_type='UIColor*' type='@'/>
+</method>
+<method selector='fontHighlightColor'>
+<retval declared_type='UIColor*' type='@'/>
+</method>
+<method selector='initWithFrame:andText:'>
+<arg declared_type='CGRect' index='0' name='frame' type='{CGRect={CGPoint=ff}{CGSize=ff}}'/>
+<arg declared_type='NSString*' index='1' name='text' type='@'/>
+<retval declared_type='id' type='@'/>
+</method>
+<method selector='initWithText:'>
+<arg declared_type='NSString*' index='0' name='text' type='@'/>
+<retval declared_type='id' type='@'/>
+</method>
+<method class_method='true' selector='label'>
+<retval declared_type='id' type='@'/>
+</method>
+<method selector='labelBottomMargin'>
+<retval declared_type='CGFloat' type='f'/>
+</method>
+<method selector='labelTopMargin'>
+<retval declared_type='CGFloat' type='f'/>
+</method>
+<method class_method='true' selector='labelWithFrame:andText:'>
+<arg declared_type='CGRect' index='0' name='frame' type='{CGRect={CGPoint=ff}{CGSize=ff}}'/>
+<arg declared_type='NSString*' index='1' name='text' type='@'/>
+<retval declared_type='id' type='@'/>
+</method>
+<method class_method='true' selector='labelWithText:'>
+<arg declared_type='NSString*' index='0' name='text' type='@'/>
+<retval declared_type='id' type='@'/>
+</method>
+<method selector='layoutHeight'>
+<retval declared_type='CGFloat' type='f'/>
+</method>
+<method selector='limitToNumberOfLines'>
+<retval declared_type='BOOL' type='B'/>
+</method>
+<method selector='lineHeight'>
+<retval declared_type='CGFloat' type='f'/>
+</method>
+<method selector='minimumFontSize'>
+<retval declared_type='CGFloat' type='f'/>
+</method>
+<method selector='numberOfLines'>
+<retval declared_type='int' type='i'/>
+</method>
+<method selector='resizeToFitText'>
+<retval declared_type='BOOL' type='B'/>
+</method>
+<method selector='setAdjustSizeToFit:'>
+<arg declared_type='BOOL' index='0' name='_adjustSizeToFit' type='B'/>
+<retval declared_type='void' type='v'/>
+</method>
+<method selector='setDelegate:'>
+<arg declared_type='id' index='0' name='delegate' type='@'/>
+<retval declared_type='void' type='v'/>
+</method>
+<method selector='setFont:'>
+<arg declared_type='UIFont*' index='0' name='font' type='@'/>
+<retval declared_type='void' type='v'/>
+</method>
+<method selector='setFontColor:'>
+<arg declared_type='UIColor*' index='0' name='fontColor' type='@'/>
+<retval declared_type='void' type='v'/>
+</method>
+<method selector='setFontHighlightColor:'>
+<arg declared_type='UIColor*' index='0' name='_fontHighlightColor' type='@'/>
+<retval declared_type='void' type='v'/>
+</method>
+<method selector='setLimitToNumberOfLines:'>
+<arg declared_type='BOOL' index='0' name='limitToNumberOfLines' type='B'/>
+<retval declared_type='void' type='v'/>
+</method>
+<method selector='setLineHeight:'>
+<arg declared_type='CGFloat' index='0' name='lineHeight' type='f'/>
+<retval declared_type='void' type='v'/>
+</method>
+<method selector='setMaxNumberOfLines:'>
+<arg declared_type='int' index='0' name='_maxNumberOfLines' type='i'/>
+<retval declared_type='void' type='v'/>
+</method>
+<method selector='setMinimumFontSize:'>
+<arg declared_type='CGFloat' index='0' name='_minimumFontSize' type='f'/>
+<retval declared_type='void' type='v'/>
+</method>
+<method selector='setNumberOfLines:'>
+<arg declared_type='int' index='0' name='numberOfLines' type='i'/>
+<retval declared_type='void' type='v'/>
+</method>
+<method selector='setResizeToFitText:'>
+<arg declared_type='BOOL' index='0' name='resizeToFitText' type='B'/>
+<retval declared_type='void' type='v'/>
+</method>
+<method selector='setShadowOffset:'>
+<arg declared_type='CGFloat' index='0' name='shadowOffset' type='f'/>
+<retval declared_type='void' type='v'/>
+</method>
+<method selector='setText:'>
+<arg declared_type='NSString*' index='0' name='text' type='@'/>
+<retval declared_type='void' type='v'/>
+</method>
+<method selector='setTextAlignment:'>
+<arg declared_type='MTLabelTextAlignment' index='0' name='textAlignment' type='i'/>
+<retval declared_type='void' type='v'/>
+</method>
+<method selector='setTextColor:'>
+<arg declared_type='UIColor*' index='0' name='_textColor' type='@'/>
+<retval declared_type='void' type='v'/>
+</method>
+<method selector='shadowOffset'>
+<retval declared_type='CGFloat' type='f'/>
+</method>
+<method selector='text'>
+<retval declared_type='NSString*' type='@'/>
+</method>
+<method selector='textAlignment'>
+<retval declared_type='MTLabelTextAlignment' type='i'/>
+</method>
+</class>
+<class name='NSObject'>
+<method selector='labelDidChangeFrame:'>
+<arg declared_type='CGRect' index='0' name='frame' type='{CGRect={CGPoint=ff}{CGSize=ff}}'/>
+<retval declared_type='void' type='v'/>
+</method>
+</class>
+<informal_protocol name='MTLabelDelegate'>
+<method type='v24@0:4{CGRect={CGPoint=ff}{CGSize=ff}}8' selector='labelDidChangeFrame:'>
+<arg declared_type='CGRect' index='0' name='frame' type='{CGRect={CGPoint=ff}{CGSize=ff}}'/>
+<retval declared_type='void' type='v'/>
+</method>
+</informal_protocol>
+</signatures>

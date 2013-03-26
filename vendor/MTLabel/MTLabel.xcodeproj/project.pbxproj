@@ -1,0 +1,242 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		46ADB51816052B8E005F9D6A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46ADB51716052B8E005F9D6A /* Foundation.framework */; };
+		46ADB51D16052B8E005F9D6A /* MTLabel.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 46ADB51C16052B8E005F9D6A /* MTLabel.h */; };
+		46ADB51F16052B8E005F9D6A /* MTLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 46ADB51E16052B8E005F9D6A /* MTLabel.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		46ADB51216052B8E005F9D6A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/${PRODUCT_NAME}";
+			dstSubfolderSpec = 16;
+			files = (
+				46ADB51D16052B8E005F9D6A /* MTLabel.h in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		46ADB51416052B8E005F9D6A /* libMTLabel.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libMTLabel.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		46ADB51716052B8E005F9D6A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		46ADB51B16052B8E005F9D6A /* MTLabel-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MTLabel-Prefix.pch"; sourceTree = "<group>"; };
+		46ADB51C16052B8E005F9D6A /* MTLabel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MTLabel.h; sourceTree = "<group>"; };
+		46ADB51E16052B8E005F9D6A /* MTLabel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MTLabel.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		46ADB51116052B8E005F9D6A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				46ADB51816052B8E005F9D6A /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		46ADB50916052B8E005F9D6A = {
+			isa = PBXGroup;
+			children = (
+				46ADB51916052B8E005F9D6A /* MTLabel */,
+				46ADB51616052B8E005F9D6A /* Frameworks */,
+				46ADB51516052B8E005F9D6A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		46ADB51516052B8E005F9D6A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				46ADB51416052B8E005F9D6A /* libMTLabel.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		46ADB51616052B8E005F9D6A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				46ADB51716052B8E005F9D6A /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		46ADB51916052B8E005F9D6A /* MTLabel */ = {
+			isa = PBXGroup;
+			children = (
+				46ADB51C16052B8E005F9D6A /* MTLabel.h */,
+				46ADB51E16052B8E005F9D6A /* MTLabel.m */,
+				46ADB51A16052B8E005F9D6A /* Supporting Files */,
+			);
+			path = MTLabel;
+			sourceTree = "<group>";
+		};
+		46ADB51A16052B8E005F9D6A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				46ADB51B16052B8E005F9D6A /* MTLabel-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		46ADB51316052B8E005F9D6A /* MTLabel */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 46ADB52216052B8E005F9D6A /* Build configuration list for PBXNativeTarget "MTLabel" */;
+			buildPhases = (
+				46ADB51016052B8E005F9D6A /* Sources */,
+				46ADB51116052B8E005F9D6A /* Frameworks */,
+				46ADB51216052B8E005F9D6A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MTLabel;
+			productName = MTLabel;
+			productReference = 46ADB51416052B8E005F9D6A /* libMTLabel.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		46ADB50B16052B8E005F9D6A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0440;
+				ORGANIZATIONNAME = EPIC;
+			};
+			buildConfigurationList = 46ADB50E16052B8E005F9D6A /* Build configuration list for PBXProject "MTLabel" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 46ADB50916052B8E005F9D6A;
+			productRefGroup = 46ADB51516052B8E005F9D6A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				46ADB51316052B8E005F9D6A /* MTLabel */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		46ADB51016052B8E005F9D6A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				46ADB51F16052B8E005F9D6A /* MTLabel.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		46ADB52016052B8E005F9D6A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		46ADB52116052B8E005F9D6A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		46ADB52316052B8E005F9D6A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DSTROOT = /tmp/MTLabel.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MTLabel/MTLabel-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		46ADB52416052B8E005F9D6A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DSTROOT = /tmp/MTLabel.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MTLabel/MTLabel-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		46ADB50E16052B8E005F9D6A /* Build configuration list for PBXProject "MTLabel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				46ADB52016052B8E005F9D6A /* Debug */,
+				46ADB52116052B8E005F9D6A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		46ADB52216052B8E005F9D6A /* Build configuration list for PBXNativeTarget "MTLabel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				46ADB52316052B8E005F9D6A /* Debug */,
+				46ADB52416052B8E005F9D6A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 46ADB50B16052B8E005F9D6A /* Project object */;
+}

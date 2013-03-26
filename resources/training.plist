@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>d25</key>
+	<array>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>08:30</string>
+			<key>title</key>
+			<string>RubyMotion state of the union</string>
+			<key>speaker</key>
+			<string>Laurent Sansonetti</string>
+			<key>speaker_company</key>
+			<string>HipBytes</string>
+			<key>speaker_image</key>
+			<string>laurent_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>09:00</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>10:00</string>
+			<key>title</key>
+			<string>Break - Have a cup of coffee</string>
+			<key>icon</key>
+			<string>coffee-cup.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>10:30</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>11:00</string>
+			<key>title</key>
+			<string>Break - Grab a waffle</string>
+			<key>icon</key>
+			<string>coffee-cup.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>11:30</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>12:00</string>
+			<key>title</key>
+			<string>Break - Lunch!</string>
+			<key>icon</key>
+			<string>pan.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>13:00</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>13:30</string>
+			<key>title</key>
+			<string>Break - Have a coffee</string>
+			<key>icon</key>
+			<string>coffee-cup.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>14:00</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>14:30</string>
+			<key>title</key>
+			<string>Break - Have a coffee</string>
+			<key>icon</key>
+			<string>coffee-cup.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>15:00</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>15:30</string>
+			<key>title</key>
+			<string>Break - Have a beer</string>
+			<key>icon</key>
+			<string>coffee-cup.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>16:00</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>16:30</string>
+			<key>title</key>
+			<string>Break - Tea time</string>
+			<key>icon</key>
+			<string>coffee-cup.png</string>
+		</dict>
+	</array>
+	<key>d26</key>
+	<array>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>08:30</string>
+			<key>title</key>
+			<string>RubyMotion state of the union</string>
+			<key>speaker</key>
+			<string>Laurent Sansonetti</string>
+			<key>speaker_company</key>
+			<string>HipBytes</string>
+			<key>speaker_image</key>
+			<string>laurent_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>09:00</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>10:00</string>
+			<key>title</key>
+			<string>Break - Have a cup of coffee</string>
+			<key>icon</key>
+			<string>coffee-cup.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>10:30</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>11:00</string>
+			<key>title</key>
+			<string>Break - Grab a waffle</string>
+			<key>icon</key>
+			<string>coffee-cup.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>11:30</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>12:00</string>
+			<key>title</key>
+			<string>Break - Lunch!</string>
+			<key>icon</key>
+			<string>pan.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>13:00</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>13:30</string>
+			<key>title</key>
+			<string>Break - Have a coffee</string>
+			<key>icon</key>
+			<string>coffee-cup.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>14:00</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>14:30</string>
+			<key>title</key>
+			<string>Break - Have a coffee</string>
+			<key>icon</key>
+			<string>coffee-cup.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>15:00</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>15:30</string>
+			<key>title</key>
+			<string>Break - Have a beer</string>
+			<key>icon</key>
+			<string>coffee-cup.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>16:00</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>16:30</string>
+			<key>title</key>
+			<string>Break - Tea time</string>
+			<key>icon</key>
+			<string>coffee-cup.png</string>
+		</dict>
+	</array>
+	<key>d27</key>
+	<array>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>08:30</string>
+			<key>title</key>
+			<string>RubyMotion state of the union</string>
+			<key>speaker</key>
+			<string>Laurent Sansonetti</string>
+			<key>speaker_company</key>
+			<string>HipBytes</string>
+			<key>speaker_image</key>
+			<string>laurent_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>09:00</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>10:00</string>
+			<key>title</key>
+			<string>Break - Have a cup of coffee</string>
+			<key>icon</key>
+			<string>coffee-cup.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>10:30</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>11:00</string>
+			<key>title</key>
+			<string>Break - Grab a waffle</string>
+			<key>icon</key>
+			<string>coffee-cup.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>11:30</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>12:00</string>
+			<key>title</key>
+			<string>Break - Lunch!</string>
+			<key>icon</key>
+			<string>pan.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>13:00</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>13:30</string>
+			<key>title</key>
+			<string>Break - Have a coffee</string>
+			<key>icon</key>
+			<string>coffee-cup.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>14:00</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>14:30</string>
+			<key>title</key>
+			<string>Break - Have a coffee</string>
+			<key>icon</key>
+			<string>coffee-cup.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>15:00</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>15:30</string>
+			<key>title</key>
+			<string>Break - Have a beer</string>
+			<key>icon</key>
+			<string>coffee-cup.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>talk</string>
+			<key>time</key>
+			<string>16:00</string>
+			<key>title</key>
+			<string>Learning iOS for the Ruby refugee</string>
+			<key>speaker</key>
+			<string>Eloy Duràn</string>
+			<key>speaker_company</key>
+			<string>Fingertips</string>
+			<key>speaker_image</key>
+			<string>eloy_small.png</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>break</string>
+			<key>time</key>
+			<string>16:30</string>
+			<key>title</key>
+			<string>Break - Tea time</string>
+			<key>icon</key>
+			<string>coffee-cup.png</string>
+		</dict>
+	</array>
+</dict>
+</plist>

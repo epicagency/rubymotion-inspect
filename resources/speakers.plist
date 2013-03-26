@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Laurent Sansonetti</string>
+			<key>company</key>
+			<string>HipByte</string>
+			<key>description</key>
+			<string>Laurent is the creator of RubyMotion and the conference organizer. He will welcome you at the conference, serve you beer and will also talk about code optimization techniques.</string>
+			<key>twitter</key>
+			<string>lrz</string>
+			<key>www</key>
+			<string>http://www.rubymotion.com</string>
+			<key>speaker_image</key>
+      <string>speakers/laurent.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nick Quaranto</string>
+			<key>company</key>
+			<string>37signals</string>
+			<key>description</key>
+			<string>Nick is a programmer at 37signals and also one of the mechanics behind rubygems.org. In his talk he will share tips about how can a Rubyist can jump in the iOS world and ship stuff easily.</string>
+			<key>twitter</key>
+			<string>qrush</string>
+			<key>www</key>
+			<string>http://quaran.to</string>
+			<key>speaker_image</key>
+      <string>speakers/nick.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Karl Krukow</string>
+			<key>company</key>
+			<string>LessPainful</string>
+			<key>description</key>
+			<string>Karl is the CTO of LessPainful, a company that specializes in test automation for mobile. He will talk about Calabash, the testing framework they develop, and how it can be integrated with RubyMotion projects. </string>
+			<key>twitter</key>
+			<string>karlkrukow</string>
+			<key>www</key>
+			<string>https://www.lesspainful.com/</string>
+			<key>speaker_image</key>
+      <string>speakers/karl.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rich Kilmer</string>
+			<key>company</key>
+			<string>Independent</string>
+			<key>description</key>
+      <string>In a past life Rich wrote parts of RubyGems, organized RailsConf and RubyConf, helped creating RubyMotion and was a VP at LivingSocial. These days, Rich is hacking on a very cool RubyMotion project!</string>
+			<key>twitter</key>
+			<string>rich_kilmer</string>
+			<key>www</key>
+			<string>http://en.wikipedia.org/wiki/Richard_Kilmer</string>
+			<key>speaker_image</key>
+      <string>speakers/rich.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Austin Seraphin</string>
+			<key>company</key>
+			<string>Independent</string>
+			<key>description</key>
+			<string>Austin is a blind programmer. In his talk, you will discover exactly how a blind person uses an iOS device and how RubyMotion makes writing accessible apps easier.</string>
+			<key>twitter</key>
+			<string>omeron23</string>
+			<key>www</key>
+			<string>http://behindthecurtain.us/</string>
+			<key>speaker_image</key>
+      <string>speakers/austin.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jonathan Penn</string>
+			<key>company</key>
+			<string>Navel Labs</string>
+			<key>description</key>
+			<string>Jonathan is the mad scientist behind Navel Labs and also the scribbler-in-chief at Cocoa Manifest. In his talk he will explore the subtleties of the CoreData framework. Be prepared!</string>
+			<key>twitter</key>
+			<string>jonathanpenn</string>
+			<key>www</key>
+			<string>http://cocoamanifest.net/</string>
+			<key>speaker_image</key>
+      <string>speakers/jonathan.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Joshua Ballanco</string>
+			<key>company</key>
+			<string>Burnside Digital</string>
+			<key>description</key>
+			<string>Joshua is a software engineer at BurnSide Digital and a former long-time Apple employee. He will talk about the life and times of an object, or, how to debug memory-related bugs.</string>
+			<key>twitter</key>
+			<string>manhattanmetric</string>
+			<key>www</key>
+			<string></string>
+			<key>speaker_image</key>
+      <string>speakers/joshua.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mateus Armando</string>
+			<key>company</key>
+			<string>Deutsche Telekom</string>
+			<key>description</key>
+			<string>Mateus is a computer scientist for the largest European telecom and also a long-time RubyMotion hacker. His talk will focus on iOS concurrency patterns such as GCD and NSOperationQueue.</string>
+			<key>twitter</key>
+			<string>seanlilmateus</string>
+			<key>www</key>
+			<string>http://github.com/seanlilmateus</string>
+			<key>speaker_image</key>
+      <string>speakers/mateus.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dennis Ushakov</string>
+			<key>company</key>
+			<string>JetBrains</string>
+			<key>description</key>
+			<string>Dennis is the RubyMine project lead developer at JetBrains. He will talk about RubyMine and how you can use it to get more from RubyMotion.</string>
+			<key>twitter</key>
+			<string>en_Dal</string>
+			<key>www</key>
+			<string>http://www.jetbrains.com/ruby</string>
+			<key>speaker_image</key>
+      <string>speakers/dennis.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Delisa Mason</string>
+			<key>company</key>
+			<string>Neo</string>
+			<key>description</key>
+			<string>Delisa is a software developer at Neo and creator of the RubyMotion plugin for Redcar, the ruby editor. She will talk about customizing an iOS dev workflow using rubies all the way down.</string>
+			<key>twitter</key>
+			<string>kattrali</string>
+			<key>www</key>
+			<string>http://kattrali.github.com/</string>
+			<key>speaker_image</key>
+      <string>speakers/delisa.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mattt Thompson</string>
+			<key>company</key>
+			<string>Heroku</string>
+			<key>description</key>
+			<string>Mattt Thompson is the Mobile Lead at Heroku, and the creator and maintainer of popular open-source projects. He will talk about how Rubyists shaped the Objective-C community.</string>
+			<key>twitter</key>
+			<string>mattt</string>
+			<key>www</key>
+			<string>http://mattt.me/</string>
+			<key>speaker_image</key>
+      <string>speakers/mattt.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Eloy Durán</string>
+			<key>company</key>
+			<string>Fingertips</string>
+			<key>description</key>
+			<string>Eloy is a professional gesticulator at Fingertips and a long-time RubyMotion hacker. He will talk about writing functional tests and also cover CocoaPods, the package manager he invented.</string>
+			<key>twitter</key>
+			<string>alloy</string>
+			<key>www</key>
+			<string>http://www.fngtps.com</string>
+			<key>speaker_image</key>
+      <string>speakers/eloy.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Clay Allsopp</string>
+			<key>company</key>
+			<string>Propeller</string>
+			<key>description</key>
+			<string>Clay is a key RubyMotion contributor, having written several tutorials, including a book for the Pragmatic Programmers, and having worked on numerous libraries. He will talk about writing wrappers for iOS.</string>
+			<key>twitter</key>
+			<string>clayallsopp</string>
+			<key>www</key>
+			<string>http://clayallsopp.com/</string>
+			<key>speaker_image</key>
+      <string>speakers/clay.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Colin T.A. Gray</string>
+			<key>company</key>
+			<string>Simple Energy</string>
+			<key>description</key>
+			<string>Colin is an iOS developer working for Simple Energy and an early RubyMotion user. He will talk about Teacup, a powerful library to build user interfaces that he co-authored with Conrad Irwin.</string>
+			<key>twitter</key>
+			<string>colinta</string>
+			<key>www</key>
+			<string>http://colinta.com/</string>
+			<key>speaker_image</key>
+      <string>speakers/colin.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Matt Green</string>
+			<key>company</key>
+			<string>Independent</string>
+			<key>description</key>
+			<string>Matt Green is a software developer and the author of Nitron and other RubyMotion libraries. He will discuss how layering can simplify your development process, and show off his new gem!</string>
+			<key>twitter</key>
+			<string>mattgreenrocks</string>
+			<key>www</key>
+			<string>https://github.com/mattgreen</string>
+			<key>speaker_image</key>
+      <string>speakers/matt.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Marin Usalj</string>
+			<key>company</key>
+			<string>Independent</string>
+			<key>description</key>
+			<string>Marin Usalj is a freelancer iOS developer living in San Francisco. He is one of the maintainers of BubbleWrap and he will talk about how using it to quickly building apps with networking, persistence and more.</string>
+			<key>twitter</key>
+			<string>mneorr</string>
+			<key>www</key>
+			<string>http://mneorr.com/</string>
+			<key>speaker_image</key>
+      <string>speakers/marin.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Michael Erasmus</string>
+			<key>company</key>
+			<string>motioncasts.tv</string>
+			<key>description</key>
+			<string>Michael is a software developer living in South Africa and also one of the guys making the motioncasts.tv screencasts. In his talk he will cover mixing RubyMotion with CoffeeScript.</string>
+			<key>twitter</key>
+			<string>michael_erasmus</string>
+			<key>www</key>
+			<string>http://motioncasts.tv/</string>
+			<key>speaker_image</key>
+      <string>speakers/michael.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Amit Kumar</string>
+			<key>company</key>
+			<string>McKinsey &amp; Company</string>
+			<key>description</key>
+			<string>Amit is a Rubyist working for India's largest IT company and also an early RubyMotion developer. He will talk about creating interactive data visualization charts.</string>
+			<key>twitter</key>
+			<string>toamit</string>
+			<key>www</key>
+			<string>http://toamitkumar.com/</string>
+			<key>speaker_image</key>
+      <string>speakers/amit.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Juan Karam</string>
+			<key>company</key>
+			<string>Raku</string>
+			<key>description</key>
+			<string>Juan is an iOS developer working for Raku, a consultancy agency in Mexico. In his talk he will unveil the mysteries behind Core Animation and cocos2d and how you can leverage them in RubyMotion. </string>
+			<key>twitter</key>
+			<string>JuanKaram</string>
+			<key>www</key>
+			<string>http://raku.mx/</string>
+			<key>speaker_image</key>
+      <string>speakers/juan.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Abhishek Nalwaya</string>
+			<key>company</key>
+			<string>McKinsey &amp; Company</string>
+			<key>description</key>
+			<string>Abhishek will be joined by Akshat Paul, they are both tech leads at McKinsey and authors of an upcoming RubyMotion book. They will talk about CoreMotion and how you can make an intuitive app using sensors.</string>
+			<key>twitter</key>
+      <string>nalwayaabhishek</string>
+			<key>www</key>
+			<string>http://nalwaya.com/</string>
+			<key>speaker_image</key>
+      <string>speakers/abhishek.png</string>
+		</dict>
+	</array>
+</plist>
