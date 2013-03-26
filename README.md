@@ -15,6 +15,20 @@ your machine.
 Once you have all this, simply run `bundle` the first time then `rake` to build
 and launch the simulator (see RubyMotion docs for more informations).
 
+## Authors
+
+### Hugues Lismonde
+
+* http://epic.net
+* http://twitter.com/hlidotbe
+* http://github.com/hlidotbe
+
+### Laurent Sansonetti
+
+* http://hipbyte.com
+* http://twitter.com/lrz
+* http://github.com/lrz
+
 ## Contributing
 
 Fork, Clone, Commit, Push, Pull-Request
