@@ -7,9 +7,9 @@ conference.
 
 ## Getting started
 
-Obviously you will need a working copy of [http://rubymotion.com](RubyMotion)
+Obviously you will need a working copy of [RubyMotion](http://rubymotion.com)
 (1.34 at the time of writing this) and Xcode with command-line tools installed.
-You'll also need to setup [http://cocoapods.org/](Cocoapods) and Bundler on
+You'll also need to setup [Cocoapods](http://cocoapods.org/) and Bundler on
 your machine.
 
 Once you have all this, simply run `bundle` the first time then `rake` to build
