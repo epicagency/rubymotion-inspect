@@ -32,7 +32,7 @@ Motion::Project::App.setup do |app|
     pod 'NVSlideMenuController'
     pod 'AFNetworking'
   end
-  app.vendor_project('vendor/MTLabel', :xcode, target: 'MTLabel', headers_dir: 'MTLabel')
+  app.vendor_project('vendor/MTLabel', :xcode, :target => 'MTLabel', :headers_dir => 'MTLabel')
 
   app.prerendered_icon = true
 end
